@@ -1,2 +1,3 @@
-# Hello-World
-Getting to know github
+Hello!
+
+This is my first changing of a commit.
